@@ -40,7 +40,7 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/
+git clone git@github.com:OjerIsaac/node_test.git
 cd ticket-booking-system
 ```
 
